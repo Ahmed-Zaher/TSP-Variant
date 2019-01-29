@@ -1,5 +1,5 @@
 # TSP-Variant
-This project is inspired by a programming problem I solved recently, the problem can be formulated as follows:
+This solution is based on a programming problem I solved recently, the problem can be formulated as follows:
 
 Given n sales persons, and m points on the 2D-plane, each salesman starts from the origin point (0,0) then visit some points (or no points) then come back to the origin such that every point is visited exactly once. Find some assignment of points for salesmen such that the maximum travelled Euclidean distance among all sales persons is minimal.
 
